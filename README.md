@@ -8,7 +8,7 @@ Program Requirements
 * Your program will use a function `void scale(int x, int y)` to simulate a *single* scale. The arguments `x` and `y` will be used to position the scale
 * Your scale needs a shape that is either **complex** (i.e. uses [`bezier()`](https://processing.org/reference/bezier_.html), [`vertex()`](https://processing.org/reference/vertex_.html), [`curveVertex()`](https://processing.org/reference/curveVertex_.html) or similiar) or **composite** (made from combining multiple simple shapes like `rect()` and `ellipse()`). The shape should not be so simple that it could be drawn with a single Processing graphics function.
 * The pattern of scales needs to use nested loops
-* If your program uses random numbers, all random numbers must use the `Math.random()` function
+* If your program uses random numbers, all random numbers must be generated using the `Math.random()` function
 
 Suggested steps to start the assignment
 ------------------------------------------
