@@ -21,7 +21,7 @@ Suggested steps to start the assignment
 
 Extensions
 -----------------------
-Random variations in size and color are common in nature and will give your a pattern a more realistic appearance.
+Random variations in size and color are common in nature and will give your pattern a more realistic appearance.
 
 Samples of Student Work
 -----------------------
