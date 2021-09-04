@@ -1,7 +1,7 @@
 ![](VariousScales.png)
 Scales
 ======
-In this project you will create a function that simulates a scale and then use nested loops to make a pattern of scales. The type of scales you simulate are entirely of your choosing. Reptiles, fish, armor, mermaids and dragons are all examples of things with scales. Feathers and hair are evolutionary developments of scales and could be simulated in this project as well.
+In this project you will create a function that simulates a scale and then use nested loops to make a pattern of scales. The particular type of scale you simulate is up to you. Reptiles, fish, armor, mermaids and dragons are all examples of things with scales. Feathers and hair are evolutionary developments of scales and could be simulated in this project as well.
 
 Program Requirements
 --------------------
