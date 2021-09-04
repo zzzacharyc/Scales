@@ -13,9 +13,9 @@ Program Requirements
 Suggested steps to start the assignment
 ------------------------------------------
 1. *Fork* [this repository](https://github.com/APCSLowell/Scales) 
-2. Open the `Scales.pde file`. Copy and paste the code into Processing.
-3. Complete `void setup()`, `void draw()` and `void scale(int x, int y)`
-5. When you are happy with the program, copy and paste it back into GitHub
+2. Open the `Scales.pde` file. Copy and paste the code into Processing.
+3. Complete `void setup()`, `void draw()` and `void scale(int x, int y)`.
+5. When you are happy with the program, copy and paste it back into the `Scales.pde` file on GitHub.
 5. You will also need to modify `index.html` to customize your website with it's own title, headline and footer. 
 6. The final step is to submit the URL for your website to google classroom. 
 
