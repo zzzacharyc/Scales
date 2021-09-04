@@ -1,8 +1,7 @@
 ![](VariousScales.png)
 Scales
 ======
-In this project you will create a function that simulates a scale and then use nested loops to make a pattern of scales. The particular type of scale you simulate is up to you. Reptiles, fish, armor, mermaids and dragons are all examples of things with scales. [Feathers and hair are evolutionary developments of scales](https://www.science.org/news/2016/06/human-hair-bird-feathers-came-reptile-scales) and could be simulated in this project as well.
-
+In this project you will create a function that simulates a scale and then use nested loops to make a pattern of scales. The particular type of scale you simulate is up to you. Reptiles, fish, armor, mermaids and dragons are all examples of things with scales. 
 Program Requirements
 --------------------
 * Your program will use a function `void scale(int x, int y)` to simulate a *single* scale. The arguments `x` and `y` will be used to position the scale
@@ -21,7 +20,8 @@ Suggested steps to start the assignment
 
 Extensions
 -----------------------
-Random variations in size and color are common in nature and will give your pattern a more realistic appearance.
+Random variations in size and color are common in nature and will give your pattern a more realistic appearance. [Feathers and hair are evolutionary developments of scales](https://www.science.org/news/2016/06/human-hair-bird-feathers-came-reptile-scales) and could be simulated in this project as well.
+
 
 Samples of Student Work
 -----------------------
