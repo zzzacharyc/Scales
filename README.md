@@ -22,7 +22,7 @@ Suggested steps to start the assignment
 
 Extensions
 -----------------------
-Random variations in size and color are common in nature and will give your pattern a more realistic appearance. [Feathers and hair are evolutionary developments of scales](https://www.science.org/news/2016/06/human-hair-bird-feathers-came-reptile-scales) and could be simulated in this project as well.
+Random variations in size and color are common in nature and will give your pattern a more realistic appearance. [Feathers and hair are evolutionary developments of scales](https://www.science.org/news/2016/06/human-hair-bird-feathers-came-reptile-scales) and could be simulated in this project as well. Processing has a 3d mode. A [3d version of scales](https://simart.github.io/Scales/) is another possiblily.
 
 
 Samples of Student Work
