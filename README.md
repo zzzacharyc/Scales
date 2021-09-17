@@ -39,6 +39,7 @@ Samples of Student Work
 [William](https://williamsgithubaccount.github.io/JigsawPuzzle/)   
 [ERic](https://desolaterakan.github.io/Scales/)   
 [Kenny](https://kennych13.github.io/Scales/)   
+[Bruno](https://bruno-415.github.io/Scales/)   
 [Johnny](https://jlin202.github.io/Scales/)   
 [Christina](https://christina88chan.github.io/Scales/)   
 [Chris](https://tophthebro.github.io/Scales/)   
