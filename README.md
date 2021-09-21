@@ -27,6 +27,10 @@ Random variations in size and color are common in nature and will give your patt
 
 Samples of Student Work
 -----------------------
+[Federico](https://feaprile.github.io/Scales/)    
+[Mikey](https://miosullivan.github.io/Scales/)   
+[Kaitlin](https://kaiyenpepper.github.io/Scales/)   
+[Zoey](https://zoeyzhu.github.io/Scales/)   
 [Curtis](https://curtischen1.github.io/Scales/)   
 [Joanne](https://joannechenn.github.io/Scales/)   
 [Pansy](https://pakuang.github.io/Scales/)   
