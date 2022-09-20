@@ -191,7 +191,7 @@ Samples of Student Work
 [Luca](https://luca321222.github.io/Scales/)    
 [Cuiyin](https://anna-c2.github.io/Scales/)   
 [Laura](https://lachen2.github.io/Scales/)    
-[Noel}(https://nochen1.github.io/Scales/)   
+[Noel](https://nochen1.github.io/Scales/)   
 [Yiyuan](https://2005benchen.github.io/Scales/)   
 [Artiom](https://lilrussian.github.io/Scales/)    
 [Marina](https://mderisi.github.io/Scales/)   
