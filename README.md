@@ -172,7 +172,7 @@ Samples of Student Work
 [Sonia](https://sonia-who.github.io/Scales/)    
 [AndreiRock](https://anliterato.github.io/Scales/)    
 [Maxwell](https://maxapcs.github.io/Scales/)    
-[Humphrey] (https://humphreyylu.github.io/Scales/)    
+[Humphrey](https://humphreyylu.github.io/Scales/)    
 [Hannah](https://hannahlucas987.github.io/Scales/)    
 [Piero](https://piero-lujan-pedreschi.github.io/Scales/)    
 [Fiona](https://f-iona.github.io/Scales/)   
