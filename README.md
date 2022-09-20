@@ -162,7 +162,7 @@ Samples of Student Work
 [Ryan](https://rchen0902.github.io/Scales/)   
 [Ryan](https://rychick.github.io/Scales/)   
 [Evangeline](https://evchien.github.io/Scales/)   
-[Miriam](https://mifreedman.github.io/Scales/)
+[Miriam](https://mifreedman.github.io/Scales/)    
 [Ethan](https://periodicethanox.github.io/Scales/)   
 [Loren](https://l0rengigi123.github.io/Scales/)   
 [Sally](https://sahong3.github.io/Scales/)    
